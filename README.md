@@ -145,15 +145,11 @@ Bugs
 No known bugs at this time.
 
 Authors
-Alexa Orrico - Github / Twitter
+Opeyemi James - Github / Twitter
 
-Jennifer Huang - Github / Twitter
+negussu Keffeni - Github / Twitter
 
-Alejandro Medina - Github / Twitter
 
-Luis Chaparro - Github / Twitter
-
-Second part of Airbnb: Joann Vuong
 
 License
 Public Domain. No copy write protection.
